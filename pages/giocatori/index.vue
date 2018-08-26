@@ -75,7 +75,7 @@ export default {
                         break; 
                     case 'mvf-':
                         filtered = filtered.sort((a, b)=>{
-                            return b.mediaVotoFantaGazzetta2017 - a.mediaVotoFantaGazzetta2017
+                            return b.mediaFantaGazzetta2017 - a.mediaFantaGazzetta2017
                         })
                         break;
                     case 'goalFatti-': 

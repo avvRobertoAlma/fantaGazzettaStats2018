@@ -13,7 +13,10 @@
 
 <script>
 export default {
-    props: ['player']
+    props: ['player'],
+    computed: {
+        
+    }
 }
 </script>
 
