@@ -1,4 +1,6 @@
 # fantaGazzetta
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FavvRobertoAlma%2FfantaGazzettaStats2018.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FavvRobertoAlma%2FfantaGazzettaStats2018?ref=badge_shield)
+
 
 > My ace Nuxt.js project
 
@@ -20,3 +22,7 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FavvRobertoAlma%2FfantaGazzettaStats2018.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FavvRobertoAlma%2FfantaGazzettaStats2018?ref=badge_large)
