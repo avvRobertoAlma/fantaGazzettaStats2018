@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/bulma": "^1.0.3",
     "@nuxtjs/font-awesome": "^1.0.3",
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {
